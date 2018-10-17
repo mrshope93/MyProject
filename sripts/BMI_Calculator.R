@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+#######Function to calculate a BMI
+>>>>>>> dd944308647310b9f5b00ef81be8006b2de49a45
 
 ####Calculate Body Mass Index (BMI)
 
