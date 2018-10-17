@@ -2,7 +2,7 @@
 
 ####Input your weight in kg
 
-weight <- 50
+weight <- 60
 
 ###Input your height in m
 
